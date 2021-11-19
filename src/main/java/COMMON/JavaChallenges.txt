@@ -1,0 +1,5 @@
+#CH0001:
+    Write a function to find and return the second largest number in the array
+
+#CH0002:
+    Write a function that compares two strings that represents integers and return true if the first number is larger than the second.
