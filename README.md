@@ -9,4 +9,9 @@ This repository is a free reign and not controlled-owned by a particular member.
 5. If you have any questions, reach out!
 6. That. Is. It. 
 
+Things you need to know: 
+-This is a Maven project.
+-You are welcome to code in the language of your choice (be aware not everyone will be proficient in certain language)
+-E.V.E.R.Y.O.N.E has acces to the POM.xml file, PLEASE use this access WISELY.
+
 Happy coding!
