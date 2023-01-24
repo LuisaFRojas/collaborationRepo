@@ -11,4 +11,7 @@ import org.junit.runner.RunWith;
         tags = "@somethingToRun"
 )
 public class Runner {
+    public static void main(String[] args) {
+
+    }
 }
